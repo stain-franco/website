@@ -32,6 +32,11 @@ const Navbar = () => {
                 Siclo
               </a>
             </Link>
+            <Link href="/conceptosGenerales" legacyBehavior>
+              <a className="text-white hover:bg-white hover:text-gray-800 hover:scale-105 transition-all duration-300 ease-in-out rounded-lg px-4 py-2">
+                Conceptos generales
+              </a>
+            </Link>
           </div>
         </div>
       </div>
