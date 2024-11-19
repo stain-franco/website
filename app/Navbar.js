@@ -37,6 +37,16 @@ const Navbar = () => {
                 Conceptos generales
               </a>
             </Link>
+            <Link href="/taller-procedimental" legacyBehavior>
+              <a className="text-white hover:bg-white hover:text-gray-800 hover:scale-105 transition-all duration-300 ease-in-out rounded-lg px-4 py-2">
+                Estudio de caso
+              </a>
+            </Link>
+            <Link href="/proyecto-final" legacyBehavior>
+              <a className="text-white hover:bg-white hover:text-gray-800 hover:scale-105 transition-all duration-300 ease-in-out rounded-lg px-4 py-2">
+                Proyecto Final
+              </a>
+            </Link>
           </div>
         </div>
       </div>
