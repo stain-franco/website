@@ -87,7 +87,6 @@ const TallerProcedimental = () => {
               </ul>
             </div>
           </section>
-          // Continúa en el mismo archivo TallerProcedimental
           {/* Sección 4 */}
           <section className="mb-8">
             <h2 className="text-4xl font-bold text-gray-800 mb-6 border-b-4 border-blue-500 pb-2">
