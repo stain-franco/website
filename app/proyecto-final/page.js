@@ -481,12 +481,13 @@ const ProyectoFinal = () => {
           </p>
           <ul className="list-disc pl-6 mb-4 text-gray-600">
             <li>
-              <strong>Análisis de necesidades y planeación:</strong>{" "}
+              <strong>Análisis de necesidades y planeación:</strong>
               Identificación de fuentes de datos principales (ERP, sistemas POS,
               hojas de cálculo). Determinación de indicadores clave de desempeño
               (KPIs), como ventas por tienda, rotación de inventarios y
               satisfacción del cliente.
             </li>
+
             <li>
               <strong>Integración de datos:</strong> Configuración de Power BI
               para conectarse al ERP, sistemas POS y bases de datos en la nube.
