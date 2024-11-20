@@ -101,6 +101,7 @@ const TallerProcedimental = () => {
             </p>
           </section>
           {/* Sección 5 */}
+
           <section className="mb-8">
             <h2 className="text-4xl font-bold text-gray-800 mb-6 border-b-4 border-blue-500 pb-2">
               5. Objetivo del estudio de caso

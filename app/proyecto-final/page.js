@@ -344,8 +344,8 @@ const ProyectoFinal = () => {
           <p className="text-gray-600 leading-relaxed mb-4">
             • <strong>Interacción mediante lenguaje natural:</strong> La
             herramienta evolucionará hacia una interacción basada en lenguaje
-            natural, donde los usuarios podrán "hablar" con Power BI para
-            generar reportes o responder preguntas.
+            natural, donde los usuarios podrán &quot;hablar&quot; con Power BI
+            para generar reportes o responder preguntas.
           </p>
           <p className="text-gray-600 leading-relaxed mb-4">
             <strong>Impacto:</strong> Esto reducirá la barrera de entrada y
