@@ -11,7 +11,7 @@ const Navbar = () => {
             <div className="flex-shrink-0">
               <Link href="/" legacyBehavior>
                 <a className="text-white text-2xl font-semibold hover:text-blue-400 transition duration-300">
-                  Logo
+                  Arquitectura de Software
                 </a>
               </Link>
             </div>
